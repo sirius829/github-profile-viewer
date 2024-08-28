@@ -31,7 +31,7 @@ The GitHub Profile Viewer is designed to fetch and display GitHub user profiles 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/github-profile-viewer.git
+    git clone https://github.com/sirius829/github-profile-viewer.git
     ```
 
 2. Navigate to the project directory:
@@ -54,7 +54,7 @@ The GitHub Profile Viewer is designed to fetch and display GitHub user profiles 
     npm start
     ```
 
-2. Open your browser and navigate to `http://localhost:3000` to use the application.
+2. Open your browser and navigate to `http://localhost:5173` to use the application.
 
 ## Environment Variables
 
